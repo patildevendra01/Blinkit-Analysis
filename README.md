@@ -50,5 +50,6 @@ The notebook is structured and well-commented, with each step of the analysis cl
 
 ---
 
-## 👤 Author
-**Devendra Patil**
+## 👤 Author  
+**Devendra Patil**  
+Email: devendrapatil8983@gmail.com
